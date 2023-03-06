@@ -3,7 +3,7 @@ INSERT INTO FirstTab
 VALUES (5, 'Pawan'),
     (6, 'Sharlee'),
     (7, 'Krish'),
-    (NULL, 'Avtaar');
+    (NULL, 'Avtaar'); 
 SELECT *
 FROM FirstTab;
 CREATE TABLE SecondTab (id integer);
