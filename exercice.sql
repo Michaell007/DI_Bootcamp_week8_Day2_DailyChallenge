@@ -23,4 +23,4 @@ the result of this request returns 2
 the result of this request returns 0
 
 -- Q4. What will be the OUTPUT of the following statement?
-the result of this request returns 2
+the result of this request returns 2 
